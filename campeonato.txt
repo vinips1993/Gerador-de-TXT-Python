@@ -1,0 +1,1 @@
+{"Franca": 5, "Italia": 2, "Brasil": 2, "Cuba": 3, "USA": 4, "Polonia": 7}

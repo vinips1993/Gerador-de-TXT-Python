@@ -1,0 +1,15 @@
+Brasil 3 X 1 França
+Brasil 3 X 1 Italia
+Brasil 0 X 3 USA
+Brasil 0 X 3 Cuba
+Brasil 3 X 0 Polônia
+França 3 X 0 Italia
+França 3 X 2 USA
+França 3 X 2 Cuba
+França 0 X 3 Polônia
+Italia 2 X 3 USA
+Italia 3 X 1 Cuba
+Italia 3 X 0 Polônia
+USA 1 X 3 Cuba
+USA 3 X 1 Polônia
+Cuba 1 X 3 Polônia
